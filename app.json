@@ -1,0 +1,10 @@
+{
+  "name": "datascraping",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
